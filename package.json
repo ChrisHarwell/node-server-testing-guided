@@ -13,9 +13,10 @@
     "dependencies": {
         "dotenv": "^8.2.0",
         "express": "^4.17.1",
+        "heroku-cli": "^7.0.9",
         "jest": "^26.4.2",
         "knex": "^0.21.2",
-        "pg": "^8.3.3",
+        "pg": "*",
         "sqlite3": "^5.0.0"
     },
     "devDependencies": {
